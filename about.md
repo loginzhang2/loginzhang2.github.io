@@ -1,10 +1,8 @@
 ---
-title: About me
 layout: page
-comments: yes
 ---
 
-About Me
+# About Me
 ***
-this guy is too lazy to write something!
-***
+### this guy is too lazy to write something!
+7/18/2016 1:16:33 PM 
