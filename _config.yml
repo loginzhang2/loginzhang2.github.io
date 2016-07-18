@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-markdown: kramdown
-=======
-markdown:redcarpet
-pygments:true
->>>>>>> parent of b457168... Update _config.yml
+markdown: redcarpet
+pygments: false
+permalink: /:year/:month/:title
+paginate: 16
