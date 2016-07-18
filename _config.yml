@@ -1,4 +1,4 @@
 markdown: redcarpet
 pygments: false
-permalink: date
+permalink: day
 paginate: 16
