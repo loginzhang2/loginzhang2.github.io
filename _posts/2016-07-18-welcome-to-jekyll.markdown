@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "欢迎访问我的博客"
+title:  "Welcome to Jekyll!"
 date:   2016-07-01 06:48:07 +0800
 categories: jekyll update
 ---
