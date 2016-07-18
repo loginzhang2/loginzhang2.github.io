@@ -1,7 +1,7 @@
 ---
-title: About me
-layout: page
-comments: yes
+title:   About
+layout:  page
+permalink: /about/
 ---
 
 About Me
