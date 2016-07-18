@@ -1,9 +1,9 @@
 ---
-title:   About
+title:   About me
 layout:  page
 permalink: /about/
 ---
 
-About Me
-----------------------------
+
+***
 this guy is too lazy to write something!
