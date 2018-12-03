@@ -8,6 +8,4 @@ layout: page
 ### this guy is too lazy to write something!
 **这是我的第一个测试博客**  
 我想更改一下，不知道能改动吗？？？
-11111111111111
-2222222222222
 7/18/2016 1:16:33 PM 
